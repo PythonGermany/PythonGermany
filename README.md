@@ -1,6 +1,6 @@
-### Hi there 👋
+<h3 align="center">Hi there 👋</h3>
 
-<div align="left">
+<div align="center">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=PythonGermany&show_icons=true&layout=compact&theme=dark&line_height=20"
