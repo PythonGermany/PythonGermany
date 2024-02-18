@@ -25,6 +25,10 @@
   </picture>
 </div>
 
+<div align="center">
+  <a href="https://wakatime.com/@018dbd99-23a0-443d-8a7f-23448ecef6a4"><img src="https://wakatime.com/badge/user/018dbd99-23a0-443d-8a7f-23448ecef6a4.svg" alt="Total time coded since Feb 18 2024" /></a>
+</div>
+
 <!--
 **PythonGermany/PythonGermany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
