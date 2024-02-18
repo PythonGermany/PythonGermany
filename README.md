@@ -18,10 +18,10 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonGermany"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonGermany&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonGermany" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonGermany&layout=compact" />
   </picture>
 </div>
 
