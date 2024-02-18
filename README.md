@@ -1,8 +1,28 @@
 ### Hi there 👋
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PythonGermany&show_icons=true&locale=en&layout=compact&theme=transparent&line_height=20" alt="PythonGermany's Github stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythongermany&layout=compact&theme=transparent" alt="Top Languages" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=PythonGermany&show_icons=true&layout=compact&theme=dark&line_height=20"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=PythonGermany&show_icons=true&line_height=20"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=PythonGermany&show_icons=true&line_height=20" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonGermany&show_icons=true&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonGermany"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonGermany" />
+  </picture>
 </div>
 
 <!--
