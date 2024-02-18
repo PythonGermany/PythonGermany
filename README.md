@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=PythonGermany&show_icons=true&locale=en&layout=compact&line_height=20" alt="PythonGermany's Github stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythongermany&layout=compact" alt="Top Languages" />
+</div>
+
 <!--
 **PythonGermany/PythonGermany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
