@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PythonGermany&show_icons=true&locale=en&layout=compact&line_height=20" alt="PythonGermany's Github stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythongermany&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PythonGermany&show_icons=true&locale=en&layout=compact&theme=transparent&line_height=20" alt="PythonGermany's Github stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythongermany&layout=compact&theme=transparent" alt="Top Languages" />
 </div>
 
 <!--
