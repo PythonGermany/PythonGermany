@@ -11,7 +11,7 @@
 				srcset="https://github-readme-stats.vercel.app/api?username=PythonGermany&show_icons=true&line_height=20"
 				media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 			/>
-			<a href=https://github.com/anuraghazra/github-readme-stats">
+			<a href="https://github.com/anuraghazra/github-readme-stats">
 				<img src="https://github-readme-stats.vercel.app/api?username=PythonGermany&show_icons=true&line_height=20"/>
 			</a>
 		</picture>
