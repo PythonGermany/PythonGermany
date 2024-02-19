@@ -5,7 +5,7 @@
 		<a href="https://github.com/anuraghazra/github-readme-stats">
 			<picture>
 				<source
-					srcset="https://github-readme-stats.vercel.app/api?username=PythonGermany&show_icons=true&layout=compact&theme=dark&title_color=00ff00&text_color=00ff00&line_height=20"
+					srcset="https://github-readme-stats.vercel.app/api?username=PythonGermany&show_icons=true&layout=compact&theme=dark&title_color=00cf00&text_color=00cf00&line_height=20"
 					media="(prefers-color-scheme: dark)"/>
 				<source
 					srcset="https://github-readme-stats.vercel.app/api?username=PythonGermany&show_icons=true&title_color=00a000&text_color=00a000&line_height=20"
@@ -16,7 +16,7 @@
 		<a href="https://github.com/anuraghazra/github-readme-stats">
 			<picture>
 				<source
-					srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonGermany&show_icons=true&layout=compact&theme=dark&title_color=00ff00&text_color=00ff00"
+					srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonGermany&show_icons=true&layout=compact&theme=dark&title_color=00cf00&text_color=00cf00"
 					media="(prefers-color-scheme: dark)"/>
 				<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonGermany&layout=compact&title_color=00a000&text_color=00a000"
 					media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
