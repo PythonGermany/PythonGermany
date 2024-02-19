@@ -5,10 +5,10 @@
 		<a href="https://github.com/anuraghazra/github-readme-stats">
 			<picture>
 				<source
-					srcset="https://github-readme-stats.vercel.app/api?username=PythonGermany&show_icons=true&layout=compact&theme=dark&title_color=00cf00&text_color=00cf00&line_height=20"
+					srcset="https://github-readme-stats.vercel.app/api?username=PythonGermany&show_icons=true&layout=compact&theme=transparent&title_color=00ef00&text_color=00df00&line_height=20"
 					media="(prefers-color-scheme: dark)"/>
 				<source
-					srcset="https://github-readme-stats.vercel.app/api?username=PythonGermany&show_icons=true&title_color=00a000&text_color=00a000&line_height=20"
+					srcset="https://github-readme-stats.vercel.app/api?username=PythonGermany&show_icons=true&theme=transparent&title_color=00a000&text_color=00a000&line_height=20"
 					media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
 				<img src="https://github-readme-stats.vercel.app/api?username=PythonGermany&show_icons=true&line_height=20"/>
 			</picture>
@@ -16,9 +16,9 @@
 		<a href="https://github.com/anuraghazra/github-readme-stats">
 			<picture>
 				<source
-					srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonGermany&show_icons=true&layout=compact&theme=dark&title_color=00cf00&text_color=00cf00"
+					srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonGermany&show_icons=true&layout=compact&theme=transparent&title_color=00ef00&text_color=00df00"
 					media="(prefers-color-scheme: dark)"/>
-				<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonGermany&layout=compact&title_color=00a000&text_color=00a000"
+				<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonGermany&layout=compact&theme=transparent&title_color=00a000&text_color=00a000"
 					media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
 				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonGermany&layout=compact"/>
 			</picture>
