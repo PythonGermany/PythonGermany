@@ -1,6 +1,6 @@
 <h3 align="center">Hi there 👋</h3>
 
-<div display="flex-vertical" align="center">
+<div align="center">
 	<div>
 		<a href="https://github.com/anuraghazra/github-readme-stats">
 			<picture>
@@ -25,15 +25,16 @@
 		</a>
 	</div>
 	<a href="https://wakatime.com/@PythonGermany">
-		<img src="https://wakatime.com/badge/user/018dbd99-23a0-443d-8a7f-23448ecef6a4.svg?style=for-the-badge" alt="Total time coded since Feb 18 2024" />
+		<img src="https://wakatime.com/badge/user/018dbd99-23a0-443d-8a7f-23448ecef6a4.svg?style=for-the-badge" alt="Total time coded since Feb 18 2024"/>
 	</a>
 	<a href="https://github.com/Platane/snk">
 		<picture>
-			<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PythonGermany/PythonGermany/output/github-contribution-grid-snake-dark.svg" />
-			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PythonGermany/PythonGermany/output/github-contribution-grid-snake.svg" />
+			<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PythonGermany/PythonGermany/output/github-contribution-grid-snake-dark.svg"/>
+			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PythonGermany/PythonGermany/output/github-contribution-grid-snake.svg"/>
 			<img alt="github-snake" src="https://raw.githubusercontent.com/PythonGermany/PythonGermany/output/github-contribution-grid-snake.svg"/>
 		</picture>
 	</a>
+	
 </div>
 
 <!--
