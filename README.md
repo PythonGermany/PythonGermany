@@ -24,9 +24,6 @@
 			</picture>
 		</a>
 	</div>
-	<p href="https://wakatime.com/@PythonGermany" align="center">
-		<img src="https://wakatime.com/badge/user/018dbd99-23a0-443d-8a7f-23448ecef6a4.svg?style=for-the-badge" alt="Total time coded since Feb 18 2024"/>
-	</p>
 </div>
 
 <a href="https://github.com/Platane/snk">
